@@ -1,0 +1,8 @@
+.venv/
+archive/
+dataset/
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/
+.vscode/
